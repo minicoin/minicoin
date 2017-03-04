@@ -1,3 +1,3 @@
-FooCoin (FOO)
+MiniCoin (FOO)
 
 Blah, blah, blah.
